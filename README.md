@@ -44,7 +44,7 @@
 
 ### [Gyminwear](https://github.com/KangJeemin/Gyminwear)
 
-Next.js Mysql(AWS RDS) AWS(EC2,route53) PM2 NIGNX 
+Next.js Mysql(AWS RDS) AWS(EC2,route53,ECS) PM2 NIGNX Github Action 
 
 ### [Asphalt](https://github.com/KangJeemin/KDT-2-Project-B-5)
 
